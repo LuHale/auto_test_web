@@ -1,0 +1,21 @@
+1539993491001	geckodriver	INFO	Listening on 127.0.0.1:62841
+1539993493967	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.vHW5lEATgQ5I
+1539993493973	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1539993494144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62854
+[GFX1-]: Failed to OpenSharedResource for SyncObjectD3D11: 0x80070057
+[Parent 10552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539993533465	Marionette	INFO	Listening on port 2828
+[Child 10524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539993765268	geckodriver	INFO	Listening on 127.0.0.1:63550
+1539993768296	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.TPbLy8W5WMtn
+1539993768304	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1539993768368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63562
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1539993775964	Marionette	INFO	Listening on port 2828
